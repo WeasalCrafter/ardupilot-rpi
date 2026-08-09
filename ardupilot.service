@@ -1,0 +1,14 @@
+[Unit]
+Description=ardupilot companion video recorder
+After=multi-user.target
+
+[Service]
+Type=simple
+User=logan
+WorkingDirectory=/home/logan/ardupilot-rpi
+ExecStart=/home/logan/ardupilot-rpi/venv/bin/python3 -u /home/logan/ardupilot-rpi/ardupilot.py
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
