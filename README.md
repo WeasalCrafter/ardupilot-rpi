@@ -44,7 +44,7 @@ There are 3 files in this project:
 
 Logan Fick -  loganfickcontact@gmail.com
 
-Project Link: [https://github.com/weasalcrafter/projects/drone](https://github.com/weasalcrafter/projects/drone)
+Project Link: [https://github.com/WeasalCrafter/ardupilot-rpi](https://github.com/WeasalCrafter/ardupilot-rpi)
 
 Website: [https://loganfick.com/](https://loganfick.com/)
 
