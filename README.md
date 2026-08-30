@@ -1,13 +1,14 @@
 <div align="center">
-    <img src="img/render.png" alt="PCB Render in KiCad 10.0" height="300">
+    <img src="img/drone.jpeg" alt="Photo of the Quadcopter" height="300">
     <br>
     <h3>ardupilot-rpi</h3>
     <p>
-    Scripts used in my Ardupilot to Raspberry Pi connection for automatic video recording via Arducam.
+    MAVLINK Scripts used in my Ardupilot to Raspberry Pi connection for automatic video recording via Arducam.
     </p>
     <br>
     <a href="https://loganfick.com/projects/drone">See my post on my Website</a>
 </div>
+
 
 <!-- TABLE OF CONTENTS -->
 <details open>
@@ -21,18 +22,12 @@
   </ol>
 </details>
 
+
+<!-- DESCRIPTION -->
 ## Description
 
 lorem
 
-<br>
-
-<div align="center">
-    <img src="img/layout.png" alt="PCB Layout in KiCad 10.0" height="250">
-    <img src="img/schematic.png" alt="PCB Schematic in KiCad 10.0" height="250">
-</div>
-
-lorem
 
 <!-- CONTACT -->
 ## Files
@@ -54,7 +49,7 @@ Website: [https://loganfick.com/](https://loganfick.com/)
 ## Acknowledgments
 lorem
 
-* [SimpleFOC](https://docs.simplefoc.com/)
+* [lorem](lorem)
 
 ## License
 
