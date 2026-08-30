@@ -26,13 +26,17 @@
 <!-- DESCRIPTION -->
 ## Description
 
-lorem
+This project is a collection of scripts that uses ```pymavlink``` and ```picamera2``` to read MAVLINK status messages and record video using an Arducam camera and save to an auto-mounted USB drive.
 
 
 <!-- CONTACT -->
 ## Files
 
-lorem
+There are 3 files in this project:
+
+- ```companion.lua``` is the script that lives on the Ardupilot FC and runs on the drone
+- ```ardupilot.py``` is the script running on the Raspberry Pi 5 Companion computer
+- ```ardupilot.service``` is the linux service that automatically runs ```ardupilot.py```
 
 
 <!-- CONTACT -->
@@ -47,9 +51,10 @@ Website: [https://loganfick.com/](https://loganfick.com/)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-lorem
 
-* [lorem](lorem)
+This project was made with the help of Claude Code
+
+* [Claude Code](https://claude.com/product/claude-code)
 
 ## License
 
